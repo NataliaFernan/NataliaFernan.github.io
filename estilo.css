@@ -1,0 +1,41 @@
+body{
+	background: #FFE4E1	;
+	font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+#principal{
+width: 900px;
+
+}
+	
+#menu{
+	background: #C0C0C0;
+	padding: 26px;
+	text-align: right;
+	
+}
+
+#conteudo{
+padding: 10px;
+
+
+}
+p{
+	text-align: justify;
+}
+
+a{
+
+color: #1C1C1C;
+text-decoration: none;
+font-weight: bold;
+padding: 4px;
+
+}
+
+#rodape{
+	background: #C0C0C0;
+	padding: 12px;
+
+}
